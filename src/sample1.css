@@ -1,6 +1,6 @@
 .grid {
   display: grid;
-  grid-template-columns: [line1] 30px 30px 30px [line4];
+  grid-template-columns: 30px 30px 30px;
   grid-template-rows: 30px 30px 30px;
   /* justify-items: stretch; */
 }
