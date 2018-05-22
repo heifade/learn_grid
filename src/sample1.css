@@ -2,11 +2,12 @@
   display: grid;
   grid-template-columns: [line1] 30px 30px 30px [line4];
   grid-template-rows: 30px 30px 30px;
+  /* justify-items: stretch; */
 }
 
 .grid .grid-item {
   border: solid 1px #ccc;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .grid .grid-item-1 {
